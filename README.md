@@ -12,6 +12,8 @@ Multi-page personal developer website with:
 - `/apps/fantasy-wrestling.html`
 - `/apps/iwrestle.html`
 - `/apps/weight-wingman.html`
+- `/apps/pinpoint-support.html` (App Store support page for PinPoint)
+- `/apps/pinpoint-privacy.html` (App Store privacy policy for PinPoint)
 
 ## Run locally
 
