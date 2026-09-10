@@ -14,6 +14,7 @@ Multi-page personal developer website with:
 - `/apps/weight-wingman.html`
 - `/apps/pinpoint-support.html` (App Store support page for PinPoint)
 - `/apps/pinpoint-privacy.html` (App Store privacy policy for PinPoint)
+- `/apps/matlas-privacy.html` (App Store privacy policy for Matlas)
 
 ## Run locally
 
