@@ -3,7 +3,7 @@
 Multi-page personal developer website with:
 
 - Home page promoting Brock as an iOS developer
-- Portfolio section with three App Store apps
+- Portfolio section with five App Store apps
 - Dedicated landing page for each app to drive App Store traffic
 
 ## Pages
@@ -12,6 +12,8 @@ Multi-page personal developer website with:
 - `/apps/fantasy-wrestling.html`
 - `/apps/iwrestle.html`
 - `/apps/weight-wingman.html`
+- `/apps/matlas.html`
+- `/apps/pinpoint.html`
 - `/apps/pinpoint-support.html` (App Store support page for PinPoint)
 - `/apps/pinpoint-privacy.html` (App Store privacy policy for PinPoint)
 - `/apps/matlas-support.html` (App Store support page for Matlas)
