@@ -348,6 +348,7 @@ a:hover { color: var(--text-primary); }
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
+.fact-grid.after-panel { padding-top: 20px; padding-bottom: 0; }
 .fact-card {
   background: var(--bg-surface);
   border: 1px solid var(--border-subtle);
